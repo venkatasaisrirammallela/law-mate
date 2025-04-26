@@ -108,12 +108,6 @@ your-project/
 
 ---
 
-## 📸 Screenshots
-
-> (You can add screenshots of your app running here!)
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License.
